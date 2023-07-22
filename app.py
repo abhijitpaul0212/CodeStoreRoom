@@ -7,4 +7,5 @@ def sub(a,b):
     return a-b
 
 def mul(a,b):
+    print("Multiplication of two numbers")
     return a*b
